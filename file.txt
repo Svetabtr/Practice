@@ -1,0 +1,6 @@
+if(condition) {
+    /// condition -> yes
+}
+else {
+    /// condition -> false
+}
